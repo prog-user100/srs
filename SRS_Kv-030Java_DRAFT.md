@@ -39,54 +39,55 @@ Date: `XX.XX`.2017
 2.  References
 3.  Specific requirements
 
-3.1  External interfaces
+    3.1  External interfaces
 
-3.2  Functions 
+    3.2  Functions 
 
-3.3  Usability Requirements
+    3.3  Usability Requirements
 
-3.4  Performance requirements
+    3.4  Performance requirements
 
-3.5  Logical database requirements
+    3.5  Logical database requirements
 
-3.6  Design constraints
+    3.6  Design constraints
 
-3.7  Software system attributes
+    3.7  Software system attributes
 
-Reliability
+        Reliability
 
-Availability
+        Availability
 
-Security
+        Security
 
-Maintainability
+        Maintainability
 
-Portability
+        Portability
 
-3.8  Supporting information
+    3.8  Supporting information
+
 4.  Verification _(parallel to subsections in Section 3)_
 
-4.1  External interfaces 
+    4.1  External interfaces 
 
-4.2  Functions 
+    4.2  Functions 
 
-4.3  Usability Requirements
+    4.3  Usability Requirements
 
-4.4  Performance requirements
+    4.4  Performance requirements
 
-4.5  Logical database requirements
+    4.5  Logical database requirements
 
-4.6  Design constraints
+    4.6  Design constraints
 
-4.7  Software system attributes
+    4.7  Software system attributes
 
-4.8  Supporting information 
+    4.8  Supporting information 
 
 5.  Appendices
 
-5.1 Assumptions and dependencies
+    5.1 Assumptions and dependencies
 
-5.2 Acronyms and abbreviations
+    5.2 Acronyms and abbreviations
 
 
 

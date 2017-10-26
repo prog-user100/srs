@@ -1,12 +1,10 @@
 > DRAFT
 
-![](SoftServe.jpg)
+![](./logo/SoftServe.jpg)
 #
 # Software Requirements Specification
-
 #
 ### for
-
 #
 # Project Name: `XXXX`
 
@@ -21,14 +19,23 @@ Date: `XX.XX`.2017
 **Table of Contents**
 
 1.  Introduction
+
     1.1  Purpose
+
     1.2  Scope
+
     1.3  Product overview 
+
     1.3.1  Product perspective
+
     1.3.2  Product functions
+
     1.3.3 User characteristics
+
     1.3.4 Limitations
+
     1.4 Definitions
+
 2.  References
 3.  Specific requirements
 
@@ -46,11 +53,11 @@ Date: `XX.XX`.2017
 
 3.7  Software system attributes
 
--Reliability
+Reliability
 
--Availability
+Availability
 
--Security
+Security
 
 Maintainability
 
@@ -112,9 +119,13 @@ This system will allow the customer company to outsource documents storage to cl
 Storing documents on cloud will reduce workload on company&#39;s own server, which in turn will reduce the cost for maintaining the company&#39;s own server.
 
 _&lt;`In this subsection:`_
+
 _`1. Identify the software product(s) to be produced by name`_
+
 _`2. Explain what the software product(s) will, and, if necessary, will not do`_
+
 _`3. Describe the application of the software being specified, including relevant benefits, objectives, and goals`_
+
 _`4. Be consistent with similar statements in higher-level specifications if they exist`_
 
 _`This should be an executive-level summary.  Do not enumerate the whole requirements list here.`&gt;_
@@ -166,6 +177,7 @@ _&lt;`Provide a summary of the major functions that the software will perform. S
 _`For clarity:`_
 
 _`1. The functions should be organized in a way that makes the list of functions understandable to the customer or to anyone else reading the document for the first time.`_
+
 _`2. Textual or graphic methods can be used to show the different functions and their relationships.  Such a diagram is not intended to show a design of a product but simply shows the logical relationships among variables.`_
 
 _`And, Finally the real meat of section.  This describes the functionality of the system in the language of the customer.  What specifically does the system that will be designed have to do?  Drawings are good, but remember this is a description of what the system needs to do, not how you are going to build it. (That comes in the design document).`&gt;_
@@ -195,9 +207,13 @@ _&lt;`Provide the definitions of all terms, acronyms, and abbreviations required
 # 2.  References
 
 This document does not reference any other document.
+
 _&lt;`In this subsection:`_
+
 _`(1) Provide a complete list of all documents referenced elsewhere in the SRS`_
+
 _`(2) Identify each document by title, report number (if applicable), date, and publishing organization`_
+
 _`(3) Specify the sources from which the references can be obtained.`_
 
 _`This information can be provided by reference to an appendix or to another document.  If your application uses specific protocols or RFC's, then reference them here so designers know where to find them.`_ &gt;
@@ -252,7 +268,9 @@ _&lt;`Define usability (quality in use) requirements. Usability requirements and
 _&lt;`This subsection specifies both the static and the dynamic numerical requirements placed on the software or on human interaction with the software, as a whole.  Static numerical requirements may include:`_
 
 _`(a)  The number of terminals to be supported`_
+
 _`(b)  The number of simultaneous users to be supported`_
+
 _`(c)  Amount and type of information to be handled`_
 
 _`Static numerical requirements are sometimes identified under a separate section entitled capacity.`_
@@ -344,14 +362,23 @@ _`Once the relevant characteristics are selected, a subsection should be written
 | `12` | `Availability` |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 _`Definitions of the quality characteristics not defined in the paragraphs above follow.`_
+
 _•`Correctness - extent to which program satisfies specifications, fulfills user's mission objective`_
+
 _•`Efficiency - amount of computing resources and code required to perform function`_
+
 _•`Flexibility - effort needed to modify operational program`_
+
 _•`Interoperability - effort needed to couple one system with another`_
+
 _•`Reliability - extent to which program performs with required precision`_
+
 _•`Reusability - extent to which it can be reused in another application`_
+
 _•`Testability - effort needed to test to ensure performs as intended`_
+
 _•`Usability - effort required to learn, operate, prepare input, and interpret output`_
+
 _&gt;_
 
 ## 3.8  Supporting information

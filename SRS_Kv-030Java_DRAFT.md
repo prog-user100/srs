@@ -1,5 +1,6 @@
 > DRAFT
- ![](SoftServe.jpg)
+
+![](SoftServe.jpg)
 #
 # Software Requirements Specification
 
@@ -30,30 +31,54 @@ Date: `XX.XX`.2017
 1.4 Definitions
 2.  References
 3.  Specific requirements
+
 3.1  External interfaces
+
 3.2  Functions 
+
 3.3  Usability Requirements
+
 3.4  Performance requirements
+
 3.5  Logical database requirements
+
 3.6  Design constraints
+
 3.7  Software system attributes
+
 -Reliability
+
 -Availability
+
 -Security
+
 Maintainability
+
 Portability
+
 3.8  Supporting information
 4.  Verification _(parallel to subsections in Section 3)_
+
 4.1  External interfaces 
+
 4.2  Functions 
+
 4.3  Usability Requirements
+
 4.4  Performance requirements
+
 4.5  Logical database requirements
+
 4.6  Design constraints
+
 4.7  Software system attributes
+
 4.8  Supporting information 
+
 5.  Appendices
+
 5.1 Assumptions and dependencies
+
 5.2 Acronyms and abbreviations
 
 
@@ -130,7 +155,7 @@ Basic features of the &lt;_`Product name`_&gt;:
 
 Use case diagram is displayed on Figure 2:
 
- ![](./diagrams/UseCaseDiargam.jpg)
+ ![](./diagrams/UseCaseDiagram.jpg)
 
 _Figure 2 – Use case diagram_
 

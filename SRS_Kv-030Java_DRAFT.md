@@ -21,14 +21,14 @@ Date: `XX.XX`.2017
 **Table of Contents**
 
 1.  Introduction
-1.1  Purpose
-1.2  Scope
-1.3  Product overview 
-1.3.1  Product perspective
-1.3.2  Product functions
-1.3.3 User characteristics
-1.3.4 Limitations
-1.4 Definitions
+    1.1  Purpose
+    1.2  Scope
+    1.3  Product overview 
+    1.3.1  Product perspective
+    1.3.2  Product functions
+    1.3.3 User characteristics
+    1.3.4 Limitations
+    1.4 Definitions
 2.  References
 3.  Specific requirements
 

@@ -1,5 +1,5 @@
 > DRAFT
- ![](./logo/SoftServe.jpg)
+ ![](SoftServe.jpg)
 #
 # Software Requirements Specification
 
